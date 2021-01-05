@@ -1,0 +1,123 @@
+______________________________________________________________________________				Get or Save the Boxes
+______________________________________________________________________________
+
+			How to Play Get or Save the Boxes
+
+i)	Click on Get or Save the Boxes application 
+
+ii)	Now choose the Single Player or Double Player option as you desired.
+______________________________________________________________________________
+
+If you choose Single Player option then first a toss event occurs between Player and Computer.
+
+If Player won the toss then Player can collect the boxes and Computer has to save the boxes.
+
+Each collected box gives 10 points. If computer touches Player then Player loses his life by 20 points.
+
+There are 4 green color characters for the Players and 1 yellow color character to for the computer.
+
+
+Player can control these four green characters by pressing
+
+
+DOWN key to move Top character only.
+
+RIGHT key to move Right character only.
+
+UP key to move Bottom character only.
+
+LEFT key to move Left character only.
+
+NUM 0 to reset the position of all the green characters. 
+
+
+If Player loses the toss then Player has to save the boxes and computer can collect all the boxes.
+
+Now there is only one green character for Player and four yellow characters for Computer.
+
+Player can control green character by pressing 
+
+
+UP key to move upside.
+
+DOWN key to move downside.
+
+LEFT key to move left side.
+
+RIGHT key to move right side.
+
+
+If Player score is greater than computer score then Player wins.
+
+If Player score is less than computer score then computer wins.
+
+If both score is equal then tie.
+______________________________________________________________________________
+
+If you chose Double Player option then the toss occurs between Player 1 and Player 2.
+
+If Player 1 wins the toss then Player 1 can collect the boxes and Player 2 has to save the boxes.
+
+There are 4 green characters for Player 1, And 1 yellow character for Player 2.
+
+Player 1 can control all 4 characters by pressing
+
+
+DOWN key to move Top character only.
+
+RIGHT key to move Right character only.
+
+DOWN key to move Bottom character only.
+
+LEFT key to move Left character only.
+
+NUM 0 to reset the position of all the green characters. 
+
+
+Player 2 can control the yellow character by pressing
+
+
+E or e key to move upside.
+
+I or i key to move downside.
+
+F or f key to move left side.
+
+J or j key to move right side.
+
+
+If Player 2 wins the toss then Player 1 has to save the boxes and Player 2 can collect the boxes.
+
+There are one green characters for Player 1. And 4 yellow character for Player 2.
+
+Player 1 can control all 4 characers by pressing
+
+
+DOWN key to move downside.
+
+RIGHT key to move right side.
+
+UP key to move upside.
+
+LEFT key to move left side.
+
+
+Player 2 can control the yellow character by pressing
+
+
+E or e key to move Bottom character only.
+
+I or i key to move Top character only.
+
+F or f key to move Left character only.
+
+J or j key to move Right character only.
+
+Space to reset the position of all 4 characters.
+
+
+If Player 1 scores greater than Player 2 score then Player 1 wins.
+
+If Player 1 scores less than Player 2 score then Player 2 win.
+
+If both score are equal then tie.

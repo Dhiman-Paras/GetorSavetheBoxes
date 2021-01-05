@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1546442146 source:c:\users\jk\desktop\get and save the box\main.cpp
+	<graphics.h>
+	<mmsystem.h>
+	<stdio.h>
+
+1546932842 source:e:\get or save the boxes\main.cpp
+	<graphics.h>
+	<mmsystem.h>
+	<stdio.h>
+
